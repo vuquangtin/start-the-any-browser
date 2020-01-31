@@ -1,0 +1,70 @@
+echo "copy all"
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube1
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube2
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube3
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube4
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube5
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube6
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube7
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube8
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube9
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube10
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube11
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/auto_youtube12
+
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/admin_youtube
+cp target/start-the-any-browser-0.0.1-SNAPSHOT-jar-with-dependencies.jar ~/workspace/start-the-any-browser/auto/playlist_youtube
+echo "copy conf/youtube.txt"
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube1/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube2/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube3/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube4/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube5/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube6/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube7/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube8/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube9/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube10/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube11/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube12/conf
+
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/admin_youtube/conf
+cp conf/youtube.txt ~/workspace/start-the-any-browser/auto/playlist_youtube/conf
+echo "copy conf/min_youtube.txt"
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube1/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube2/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube3/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube4/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube5/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube6/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube7/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube8/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube9/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube10/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube11/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/auto_youtube12/conf
+
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/admin_youtube/conf
+cp conf/min_youtube.txt ~/workspace/start-the-any-browser/auto/playlist_youtube/conf
+
+
+echo "copy start.sh"
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube1
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube2
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube3
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube4
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube5
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube6
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube7
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube8
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube9
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube10
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube11
+cp start.sh ~/workspace/start-the-any-browser/auto/auto_youtube12
+
+cp start.sh ~/workspace/start-the-any-browser/auto/admin_youtube
+cp start.sh ~/workspace/start-the-any-browser/auto/playlist_youtube

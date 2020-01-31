@@ -1,0 +1,18 @@
+How to Locate the Current Chrome Profile Folder
+1.  Click and drag the text below into the Chrome title bar above to open a new tab containing Chrome version information:
+
+chrome://version/
+
+2.  Copy the value of the Profile Path displayed on that page.
+
+On Ubuntu, it looks something like this:
+
+/home/username/.config/google-chrome/profileName
+
+3.  Navigate to the profile path copied in the previous step.
+
+On Windows, paste the path directly into the address bar of File Explorer and hit Enter.
+
+On a Mac, select Go in the Finder menu, then click Go to Folder. Paste the path into the textbox and click Go.
+
+On Ubuntu, select Go in the Files app menu, then click Enter Location. Paste the path into the textbox and hit Enter.
