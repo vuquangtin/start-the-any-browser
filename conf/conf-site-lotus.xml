@@ -47,7 +47,7 @@
 	</property>
 	<property>
 		<name>app.start.type</name>
-		<value>Facebook</value>
+		<value>lotus</value>
 		<description>
 			Facebook
 			Youtube
@@ -93,9 +93,8 @@
 	</property>
 	<property>
 		<name>path.folder.session.name</name>
-		<value>100011480172634_BaoBao</value>
+		<value>1000000020000_marketing</value>
 		<description>
-			1000000020000_marketing
 			29460917397406666_VQTlutos
 			24641149332806916_lutos
 			24556322091062299_tanktank
